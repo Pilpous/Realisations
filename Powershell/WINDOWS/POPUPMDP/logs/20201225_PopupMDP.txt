@@ -1,0 +1,47 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20201225
+#############################################################################
+[20201225_07:34:01] Lancement du script
+[20201225_07:34:01] Chargement des composants
+[20201225_07:34:05] Lancement Fonction Test_IP
+[20201225_07:34:05] Poste en W10 - Poursuite du script
+[20201225_07:34:05] Poste en W10 - Poursuite du script
+[20201225_07:34:05] Verification Reseau
+[20201225_07:34:05] Adresse IP : 192.168.1.35 
+[20201225_07:34:05] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:34:25] Poste en W10 - Poursuite du script
+[20201225_07:34:25] Poste en W10 - Poursuite du script
+[20201225_07:34:25] Verification Reseau
+[20201225_07:34:25] Adresse IP : 192.168.1.35 
+[20201225_07:34:25] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:34:45] Poste en W10 - Poursuite du script
+[20201225_07:34:45] Poste en W10 - Poursuite du script
+[20201225_07:34:45] Verification Reseau
+[20201225_07:34:45] Adresse IP : 192.168.1.35 
+[20201225_07:34:45] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:35:05] Poste en W10 - Poursuite du script
+[20201225_07:35:05] Poste en W10 - Poursuite du script
+[20201225_07:35:05] Verification Reseau
+[20201225_07:35:06] Adresse IP : 192.168.1.35 
+[20201225_07:35:06] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:35:26] Poste en W10 - Poursuite du script
+[20201225_07:35:26] Poste en W10 - Poursuite du script
+[20201225_07:35:26] Verification Reseau
+[20201225_07:35:26] Adresse IP : 192.168.1.35 
+[20201225_07:35:26] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:35:46] Poste en W10 - Poursuite du script
+[20201225_07:35:46] Poste en W10 - Poursuite du script
+[20201225_07:35:46] Verification Reseau
+[20201225_07:35:46] Adresse IP : 192.168.1.35 
+[20201225_07:35:46] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:36:06] Poste en W10 - Poursuite du script
+[20201225_07:36:06] Poste en W10 - Poursuite du script
+[20201225_07:36:06] Verification Reseau
+[20201225_07:36:06] Adresse IP : 192.168.1.35 
+[20201225_07:36:06] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201225_07:36:26] Poste en W10 - Poursuite du script
+[20201225_07:36:26] Poste en W10 - Poursuite du script
+[20201225_07:36:26] Verification Reseau
+[20201225_07:36:26] Adresse IP : 192.168.1.35 
+[20201225_07:36:26] En Télétravail ou hors réseau Groupama - Pas de lancement du script

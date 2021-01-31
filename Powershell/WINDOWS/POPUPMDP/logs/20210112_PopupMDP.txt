@@ -1,0 +1,41 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20210112
+#############################################################################
+[20210112_07:50:48] Lancement du script
+[20210112_07:50:48] Chargement des composants
+[20210112_07:50:51] Lancement Fonction Test_IP
+[20210112_07:50:51] Poste en W10 - Poursuite du script
+[20210112_07:50:51] Poste en W10 - Poursuite du script
+[20210112_07:50:51] Verification Reseau
+[20210112_07:50:51] Adresse IP : 192.168.1.16 
+[20210112_07:50:51] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210112_07:51:11] Poste en W10 - Poursuite du script
+[20210112_07:51:11] Poste en W10 - Poursuite du script
+[20210112_07:51:11] Verification Reseau
+[20210112_07:51:11] Adresse IP : 192.168.1.16 
+[20210112_07:51:11] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210112_07:51:31] Poste en W10 - Poursuite du script
+[20210112_07:51:31] Poste en W10 - Poursuite du script
+[20210112_07:51:31] Verification Reseau
+[20210112_07:51:31] Adresse IP : 192.168.1.16 
+[20210112_07:51:31] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210112_07:51:51] Poste en W10 - Poursuite du script
+[20210112_07:51:51] Poste en W10 - Poursuite du script
+[20210112_07:51:51] Verification Reseau
+[20210112_07:51:51] Adresse IP : 192.168.1.16 
+[20210112_07:51:51] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210112_07:52:11] Poste en W10 - Poursuite du script
+[20210112_07:52:11] Poste en W10 - Poursuite du script
+[20210112_07:52:11] Verification Reseau
+[20210112_07:52:11] Adresse IP : 192.168.1.16 
+[20210112_07:52:11] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210112_07:52:31] Poste en W10 - Poursuite du script
+[20210112_07:52:31] Poste en W10 - Poursuite du script
+[20210112_07:52:31] Verification Reseau
+[20210112_07:52:31] Adresse IP : 192.168.1.16 10.227.160.61 
+[20210112_07:52:31] En Teletravail - EndUser - Exécution du script
+[20210112_07:52:31] Verification Age du mot de passe
+[20210112_07:52:37] Expiration du mot de passe dans 71 jours
+[20210112_07:52:37] Lancement Fonction Launch_Or_Not_Launch
+[20210112_07:52:37] Expiration du mot de passe supérieur à 15 jours - pas de lancement

@@ -1,0 +1,330 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20210107
+#############################################################################
+[20210107_07:46:30] Lancement du script
+[20210107_07:46:30] Chargement des composants
+[20210107_07:46:34] Lancement Fonction Test_IP
+[20210107_07:46:34] Poste en W10 - Poursuite du script
+[20210107_07:46:34] Poste en W10 - Poursuite du script
+[20210107_07:46:34] Verification Reseau
+[20210107_07:46:34] Adresse IP : 192.168.1.35 
+[20210107_07:46:34] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210107_07:46:54] Poste en W10 - Poursuite du script
+[20210107_07:46:54] Poste en W10 - Poursuite du script
+[20210107_07:46:54] Verification Reseau
+[20210107_07:46:54] Adresse IP : 192.168.1.35 
+[20210107_07:46:54] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210107_07:47:14] Poste en W10 - Poursuite du script
+[20210107_07:47:14] Poste en W10 - Poursuite du script
+[20210107_07:47:14] Verification Reseau
+[20210107_07:47:14] Adresse IP : 192.168.1.35 
+[20210107_07:47:14] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210107_07:47:34] Poste en W10 - Poursuite du script
+[20210107_07:47:34] Poste en W10 - Poursuite du script
+[20210107_07:47:34] Verification Reseau
+[20210107_07:47:34] Adresse IP : 192.168.1.35 
+[20210107_07:47:34] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210107_07:47:54] Poste en W10 - Poursuite du script
+[20210107_07:47:54] Poste en W10 - Poursuite du script
+[20210107_07:47:54] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:55] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:55] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:55] Verification Age du mot de passe
+[20210107_07:47:55] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Poste en W10 - Poursuite du script
+[20210107_07:47:55] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Verification Reseau
+[20210107_07:47:56] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:56] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:56] Verification Age du mot de passe
+[20210107_07:47:56] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:56] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Verification Reseau
+[20210107_07:47:57] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:57] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:57] Verification Age du mot de passe
+[20210107_07:47:57] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:57] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Verification Reseau
+[20210107_07:47:58] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:58] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:58] Verification Age du mot de passe
+[20210107_07:47:58] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Verification Reseau
+[20210107_07:47:58] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:58] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:58] Verification Age du mot de passe
+[20210107_07:47:58] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Verification Reseau
+[20210107_07:47:58] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:58] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:58] Verification Age du mot de passe
+[20210107_07:47:58] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Verification Reseau
+[20210107_07:47:58] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:58] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:58] Verification Age du mot de passe
+[20210107_07:47:58] Impossible de trouver un serveur par défaut avec les services Web Active Directory en cours d’exécution.
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Poste en W10 - Poursuite du script
+[20210107_07:47:58] Verification Reseau
+[20210107_07:47:58] Adresse IP : 192.168.1.35 10.227.160.69 
+[20210107_07:47:58] En Teletravail - EndUser - Exécution du script
+[20210107_07:47:58] Verification Age du mot de passe
+[20210107_07:48:03] Expiration du mot de passe dans 76 jours
+[20210107_07:48:04] Lancement Fonction Launch_Or_Not_Launch
+[20210107_07:48:04] Expiration du mot de passe supérieur à 15 jours - pas de lancement

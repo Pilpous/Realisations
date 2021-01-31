@@ -1,0 +1,65 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20201222
+#############################################################################
+[20201222_08:01:41] Lancement du script
+[20201222_08:01:41] Chargement des composants
+[20201222_08:01:44] Lancement Fonction Test_IP
+[20201222_08:01:44] Poste en W10 - Poursuite du script
+[20201222_08:01:44] Poste en W10 - Poursuite du script
+[20201222_08:01:44] Verification Reseau
+[20201222_08:01:44] Adresse IP : 192.168.1.12 
+[20201222_08:01:44] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:02:04] Poste en W10 - Poursuite du script
+[20201222_08:02:04] Poste en W10 - Poursuite du script
+[20201222_08:02:04] Verification Reseau
+[20201222_08:02:04] Adresse IP : 192.168.1.12 
+[20201222_08:02:04] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:02:24] Poste en W10 - Poursuite du script
+[20201222_08:02:24] Poste en W10 - Poursuite du script
+[20201222_08:02:24] Verification Reseau
+[20201222_08:02:24] Adresse IP : 192.168.1.12 
+[20201222_08:02:24] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:02:44] Poste en W10 - Poursuite du script
+[20201222_08:02:44] Poste en W10 - Poursuite du script
+[20201222_08:02:44] Verification Reseau
+[20201222_08:02:44] Adresse IP : 192.168.1.12 
+[20201222_08:02:44] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:03:04] Poste en W10 - Poursuite du script
+[20201222_08:03:04] Poste en W10 - Poursuite du script
+[20201222_08:03:04] Verification Reseau
+[20201222_08:03:04] Adresse IP : 192.168.1.12 
+[20201222_08:03:04] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:03:24] Poste en W10 - Poursuite du script
+[20201222_08:03:24] Poste en W10 - Poursuite du script
+[20201222_08:03:24] Verification Reseau
+[20201222_08:03:24] Adresse IP : 192.168.1.12 
+[20201222_08:03:24] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:03:44] Poste en W10 - Poursuite du script
+[20201222_08:03:44] Poste en W10 - Poursuite du script
+[20201222_08:03:44] Verification Reseau
+[20201222_08:03:44] Adresse IP : 192.168.1.12 
+[20201222_08:03:44] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:04:04] Poste en W10 - Poursuite du script
+[20201222_08:04:04] Poste en W10 - Poursuite du script
+[20201222_08:04:04] Verification Reseau
+[20201222_08:04:04] Adresse IP : 192.168.1.12 
+[20201222_08:04:04] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:04:24] Poste en W10 - Poursuite du script
+[20201222_08:04:24] Poste en W10 - Poursuite du script
+[20201222_08:04:24] Verification Reseau
+[20201222_08:04:25] Adresse IP : 192.168.1.12 
+[20201222_08:04:25] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201222_08:04:45] Poste en W10 - Poursuite du script
+[20201222_08:04:45] Poste en W10 - Poursuite du script
+[20201222_08:04:45] Verification Reseau
+[20201222_08:04:45] Adresse IP : 192.168.1.12 10.227.160.83 
+[20201222_08:04:45] En Teletravail - EndUser - Exécution du script
+[20201222_08:04:45] Verification Age du mot de passe
+[20201222_08:04:52] Expiration du mot de passe dans 13 jours
+[20201222_08:04:52] Lancement Fonction Launch_Or_Not_Launch
+[20201222_08:04:52] Lancement du Toast => Expiration dans 15 jours ou moins
+[20201222_08:08:25] Ouverture Windows_Change
+[20201222_08:08:25] Verification si TELETRAVAIL/TRAMO
+[20201222_08:08:25] TELETRAVAIL/TRAMO - Affichage message avec procedure changement mot de passe
+[20201222_08:08:28] Poste en TRAMO : Fermeture de la fenetre

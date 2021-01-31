@@ -1,0 +1,18 @@
+<Grid
+    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	
+	>
+    <StackPanel Orientation="Vertical">
+
+        <StackPanel>
+            <Label Name="Title_Alerte" Content="" FontSize="14"  FontWeight="Bold"/>
+            <Label Name="Content_Alerte" Content=""/>
+			<Label Name="Content_Alerte_2" Content=""/>
+			<Label Name="Content_Alerte_3" Content=""/>
+            <Button Name="BtnClose" Content="Fermer" Margin="5" Width="100"/>
+			<Button Name="BtnClose_All" Content="OK" Margin="5" Width="100" Visibility="Hidden"/>
+        </StackPanel>  
+	</StackPanel>
+</Grid>

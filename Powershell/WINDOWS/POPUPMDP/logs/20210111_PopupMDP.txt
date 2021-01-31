@@ -1,0 +1,16 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20210111
+#############################################################################
+[20210111_08:13:20] Lancement du script
+[20210111_08:13:20] Chargement des composants
+[20210111_08:13:25] Lancement Fonction Test_IP
+[20210111_08:13:25] Poste en W10 - Poursuite du script
+[20210111_08:13:25] Poste en W10 - Poursuite du script
+[20210111_08:13:25] Verification Reseau
+[20210111_08:13:25] Adresse IP : 10.135.48.244 
+[20210111_08:13:25] Sur Site - Exécution du script
+[20210111_08:13:25] Verification Age du mot de passe
+[20210111_08:13:25] Expiration du mot de passe dans 72 jours
+[20210111_08:13:25] Lancement Fonction Launch_Or_Not_Launch
+[20210111_08:13:26] Expiration du mot de passe supérieur à 15 jours - pas de lancement

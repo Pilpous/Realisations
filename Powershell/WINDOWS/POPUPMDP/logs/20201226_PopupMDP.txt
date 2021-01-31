@@ -1,0 +1,36 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20201226
+#############################################################################
+[20201226_08:03:23] Lancement du script
+[20201226_08:03:23] Chargement des composants
+[20201226_08:03:26] Lancement Fonction Test_IP
+[20201226_08:03:26] Poste en W10 - Poursuite du script
+[20201226_08:03:26] Poste en W10 - Poursuite du script
+[20201226_08:03:26] Verification Reseau
+[20201226_08:03:26] Adresse IP : 192.168.1.35 
+[20201226_08:03:26] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201226_08:03:46] Poste en W10 - Poursuite du script
+[20201226_08:03:46] Poste en W10 - Poursuite du script
+[20201226_08:03:46] Verification Reseau
+[20201226_08:03:46] Adresse IP : 192.168.1.35 
+[20201226_08:03:46] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201226_08:04:06] Poste en W10 - Poursuite du script
+[20201226_08:04:06] Poste en W10 - Poursuite du script
+[20201226_08:04:06] Verification Reseau
+[20201226_08:04:06] Adresse IP : 192.168.1.35 
+[20201226_08:04:06] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201226_08:04:26] Poste en W10 - Poursuite du script
+[20201226_08:04:26] Poste en W10 - Poursuite du script
+[20201226_08:04:26] Verification Reseau
+[20201226_08:04:26] Adresse IP : 192.168.1.35 
+[20201226_08:04:26] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20201226_08:04:46] Poste en W10 - Poursuite du script
+[20201226_08:04:46] Poste en W10 - Poursuite du script
+[20201226_08:04:46] Verification Reseau
+[20201226_08:04:46] Adresse IP : 192.168.1.35 10.227.160.11 
+[20201226_08:04:46] En Teletravail - EndUser - Exécution du script
+[20201226_08:04:46] Verification Age du mot de passe
+[20201226_08:04:50] Expiration du mot de passe dans 88 jours
+[20201226_08:04:50] Lancement Fonction Launch_Or_Not_Launch
+[20201226_08:04:50] Expiration du mot de passe supérieur à 15 jours - pas de lancement

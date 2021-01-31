@@ -1,0 +1,57 @@
+<Grid
+    xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    Height="595" Width="1308">
+    <Grid.Resources>
+        <ItemsPanelTemplate x:Key="VirtualPanel">
+            <VirtualizingStackPanel/>
+        </ItemsPanelTemplate>
+    </Grid.Resources>
+    <Grid Margin="4.5,0,0,0" Background="White">
+        <StackPanel Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="AccountGroup" Height="51" Width="30" Margin="10,0,10,0"/>
+                <ComboBox Name="cbx_user_global"  ItemsPanel="{DynamicResource VirtualPanel}" Margin="10,0,10,0" HorizontalAlignment="Left" Height="38"  VerticalAlignment="Top" Width="279" />
+                <StackPanel>
+                    <DatePicker Name="dtpr_date_global" Margin="10,0,10,0" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="169" Text="Selectionnez date"/>
+                    <DatePicker Name="dtpr_date_fin_global" Margin="10,10,10,0" HorizontalAlignment="Left" Height="36"  VerticalAlignment="Top" Width="169" Text="Selectionnez date" Visibility="Hidden"/>
+                </StackPanel>
+                <Button Name="btn_go_global" Margin="450,0,0,0" Content="Valider" Height="94" VerticalAlignment="Top" HorizontalAlignment="Right" Width="164"/>
+                <Button Name="btn_export_glob" Margin="45,70,0,0" Content="{materialDesign:PackIcon Kind=FileExport}" HorizontalAlignment="Center" Height="20" VerticalAlignment="Center" Width="21.5" Padding="0" BorderThickness="0" ToolTip="Clic droit !">
+                    <Button.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Name="mn_exp_csv_glob" Header="Export CSV"/>
+                            <MenuItem Name="mn_exp_html_glob" Header="Export HTML"/>
+                        </ContextMenu>
+                    </Button.ContextMenu>
+                </Button>
+                <materialDesign:PackIcon Name="ico_dev_priv" Margin="20,0,0,0" Kind="AlphabetDBox" Height="25" Width="35"  Foreground="Red" Visibility="Hidden"/>
+            </StackPanel>
+            <DataGrid Margin="50" Name="dtg_global" HorizontalAlignment="Left" Height="402.5" VerticalAlignment="Top" Width="1179">
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Path=ID_ASC}" Value="2">
+                                <Setter Property="Background" Value="DarkGoldenrod"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Path=ID_DESC}" Value="2">
+                                <Setter Property="Background" Value="LightPink"/>
+                            </DataTrigger>
+                            <MultiDataTrigger>
+                                <MultiDataTrigger.Conditions>
+                                    <Condition Binding="{Binding Path=ID_ASC}" Value="2"/>
+                                    <Condition Binding="{Binding Path=ID_DESC}" Value="2"/>
+                                </MultiDataTrigger.Conditions>
+                                <Setter Property="Background" Value="IndianRed"/>
+                            </MultiDataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Grid>

@@ -1,0 +1,104 @@
+#############################################################################
+                        LOGS POPUPMDP
+        Poste N35R996 - Utilisateur MBG17590 - Date 20210119
+#############################################################################
+[20210119_07:47:33] Lancement du script
+[20210119_07:47:33] Chargement des composants
+[20210119_07:47:36] Lancement Fonction Test_IP
+[20210119_07:47:36] Poste en W10 - Poursuite du script
+[20210119_07:47:36] Poste en W10 - Poursuite du script
+[20210119_07:47:36] Verification Reseau
+[20210119_07:47:37] Adresse IP : 192.168.1.16 
+[20210119_07:47:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:47:57] Poste en W10 - Poursuite du script
+[20210119_07:47:57] Poste en W10 - Poursuite du script
+[20210119_07:47:57] Verification Reseau
+[20210119_07:47:57] Adresse IP : 192.168.1.16 
+[20210119_07:47:57] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:48:17] Poste en W10 - Poursuite du script
+[20210119_07:48:17] Poste en W10 - Poursuite du script
+[20210119_07:48:17] Verification Reseau
+[20210119_07:48:17] Adresse IP : 192.168.1.16 
+[20210119_07:48:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:48:37] Poste en W10 - Poursuite du script
+[20210119_07:48:37] Poste en W10 - Poursuite du script
+[20210119_07:48:37] Verification Reseau
+[20210119_07:48:37] Adresse IP : 192.168.1.16 
+[20210119_07:48:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:48:57] Poste en W10 - Poursuite du script
+[20210119_07:48:57] Poste en W10 - Poursuite du script
+[20210119_07:48:57] Verification Reseau
+[20210119_07:48:57] Adresse IP : 192.168.1.16 
+[20210119_07:48:57] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:49:17] Poste en W10 - Poursuite du script
+[20210119_07:49:17] Poste en W10 - Poursuite du script
+[20210119_07:49:17] Verification Reseau
+[20210119_07:49:17] Adresse IP : 192.168.1.16 
+[20210119_07:49:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:49:37] Poste en W10 - Poursuite du script
+[20210119_07:49:37] Poste en W10 - Poursuite du script
+[20210119_07:49:37] Verification Reseau
+[20210119_07:49:37] Adresse IP : 192.168.1.16 10.227.160.55 
+[20210119_07:49:37] En Teletravail - EndUser - Exécution du script
+[20210119_07:49:37] Verification Age du mot de passe
+[20210119_07:49:43] Expiration du mot de passe dans 64 jours
+[20210119_07:49:43] Lancement Fonction Launch_Or_Not_Launch
+[20210119_07:49:43] Expiration du mot de passe supérieur à 15 jours - pas de lancement
+[20210119_07:59:12] Lancement du script
+[20210119_07:59:12] Chargement des composants
+[20210119_07:59:16] Lancement Fonction Test_IP
+[20210119_07:59:16] Poste en W10 - Poursuite du script
+[20210119_07:59:16] Poste en W10 - Poursuite du script
+[20210119_07:59:16] Verification Reseau
+[20210119_07:59:17] Adresse IP : 192.168.1.17 
+[20210119_07:59:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:59:37] Poste en W10 - Poursuite du script
+[20210119_07:59:37] Poste en W10 - Poursuite du script
+[20210119_07:59:37] Verification Reseau
+[20210119_07:59:37] Adresse IP : 192.168.1.17 
+[20210119_07:59:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_07:59:57] Poste en W10 - Poursuite du script
+[20210119_07:59:57] Poste en W10 - Poursuite du script
+[20210119_07:59:57] Verification Reseau
+[20210119_07:59:57] Adresse IP : 192.168.1.17 
+[20210119_07:59:57] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:00:17] Poste en W10 - Poursuite du script
+[20210119_08:00:17] Poste en W10 - Poursuite du script
+[20210119_08:00:17] Verification Reseau
+[20210119_08:00:17] Adresse IP : 192.168.1.17 
+[20210119_08:00:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:00:37] Poste en W10 - Poursuite du script
+[20210119_08:00:37] Poste en W10 - Poursuite du script
+[20210119_08:00:37] Verification Reseau
+[20210119_08:00:37] Adresse IP : 192.168.1.17 
+[20210119_08:00:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:00:57] Poste en W10 - Poursuite du script
+[20210119_08:00:57] Poste en W10 - Poursuite du script
+[20210119_08:00:57] Verification Reseau
+[20210119_08:00:57] Adresse IP : 192.168.1.17 
+[20210119_08:00:57] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:01:17] Poste en W10 - Poursuite du script
+[20210119_08:01:17] Poste en W10 - Poursuite du script
+[20210119_08:01:17] Verification Reseau
+[20210119_08:01:17] Adresse IP : 192.168.1.17 
+[20210119_08:01:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:01:37] Poste en W10 - Poursuite du script
+[20210119_08:01:37] Poste en W10 - Poursuite du script
+[20210119_08:01:37] Verification Reseau
+[20210119_08:01:37] Adresse IP : 192.168.1.17 
+[20210119_08:01:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:01:57] Poste en W10 - Poursuite du script
+[20210119_08:01:57] Poste en W10 - Poursuite du script
+[20210119_08:01:57] Verification Reseau
+[20210119_08:01:57] Adresse IP : 192.168.1.17 
+[20210119_08:01:57] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:02:17] Poste en W10 - Poursuite du script
+[20210119_08:02:17] Poste en W10 - Poursuite du script
+[20210119_08:02:17] Verification Reseau
+[20210119_08:02:17] Adresse IP : 192.168.1.17 
+[20210119_08:02:17] En Télétravail ou hors réseau Groupama - Pas de lancement du script
+[20210119_08:02:37] Poste en W10 - Poursuite du script
+[20210119_08:02:37] Poste en W10 - Poursuite du script
+[20210119_08:02:37] Verification Reseau
+[20210119_08:02:37] Adresse IP : 192.168.1.17 
+[20210119_08:02:37] En Télétravail ou hors réseau Groupama - Pas de lancement du script

@@ -1,0 +1,15 @@
+﻿<Window
+	xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="SplashScreen" WindowStyle="None" WindowStartupLocation="CenterScreen"
+	AllowsTransparency="True" Background="Transparent" ShowInTaskbar ="False" 
+    ResizeMode = "NoResize" Width="500" Height="300"  >
+    <Grid Background="Black">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5,5,5,5">
+            <Label Content="TOOLS BOX" Foreground="SlateGray" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32" FontWeight="Bold"  />
+            <Label Name="LoadingLabel" Content="Loading"  Foreground="SlateGray" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" Margin = "0,0,0,0"/>
+            <Controls:ProgressRing IsActive="{Binding IsActive}" Foreground="SlateGray" HorizontalAlignment="Center"  Margin = "0,30,0,0" Width="40" Height="8"/>
+        </StackPanel>
+    </Grid>
+</Window> 
